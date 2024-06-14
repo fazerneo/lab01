@@ -6,12 +6,12 @@ print("I am from Bhutan")
 print("I am studying Graduate Certificate in IT at Murdoch")
 
 #Task 2: units information
-# I created a dictionary to list out my units and their code as key, value pairs. i thought this may be useful some day
+# I created a dictionary to list my units and their code as key, value pairs. I thought this might be useful someday
 units = {
-		"ICT521" : "IT Professional Practice",
-		"ICT581" : "Information Systems Principles and Practive",
-		"ICT582" : "Python Programming Principles and Practice",
-		"ICT583" : "Data Science Applications"
+	"ICT521": "IT Professional Practice",
+	"ICT581": "Information Systems Principles and Practice",
+	"ICT582": "Python Programming Principles and Practice",
+	"ICT583": "Data Science Applications"
 }
 
 print("My units are: ")
